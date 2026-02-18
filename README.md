@@ -53,6 +53,12 @@ Read **CONTRIBUTING.md** before opening a pull request.
 </a>
 </td>
 <td align='center' width='120px'>
+<a href='https://github.com/chrehman23'>
+<img src='https://github.com/chrehman23.png' width='80px' style='border-radius:50%'><br>
+<sub><b>chrehman23</b></sub>
+</a>
+</td>
+<td align='center' width='120px'>
 <a href='https://github.com/Abhaypb'>
 <img src='https://github.com/Abhaypb.png' width='80px' style='border-radius:50%'><br>
 <sub><b>Abhaypb</b></sub>
@@ -76,13 +82,13 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>khanhashim9262</b></sub>
 </a>
 </td>
+</tr><tr>
 <td align='center' width='120px'>
 <a href='https://github.com/shaikwahab01'>
 <img src='https://github.com/shaikwahab01.png' width='80px' style='border-radius:50%'><br>
 <sub><b>shaikwahab01</b></sub>
 </a>
 </td>
-</tr><tr>
 </tr>
 </table>
 <!-- CONTRIBUTORS-LIST:END -->
