@@ -1,0 +1,8 @@
+{
+	"name":"Akhil s Pramod",
+	"country":"INDIA",
+	"role":"Developer"
+	"GitHub":"https://github.com/akhilspramod1",
+	"linkedin":"https://www.linkedin.com/in/akhil-s-pramod-6863ba1a9/",
+	"highlight": "peace out"
+}
