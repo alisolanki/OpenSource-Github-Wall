@@ -1,12 +1,37 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "object",
-  "required": ["name", "country", "role", "github"],
+  "required": [
+    "name",
+    "country",
+    "role",
+    "github"
+  ],
+  "additionalProperties": false,
   "properties": {
-    "name": { "type": "string" },
-    "country": { "type": "string" },
-    "role": { "type": "string" },
-    "github": { "type": "string" },
-    "linkedin": { "type": "string" },
-    "highlight": { "type": "string" }
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "country": {
+      "type": "string",
+      "minLength": 1
+    },
+    "role": {
+      "type": "string",
+      "minLength": 1
+    },
+    "github": {
+      "type": "string",
+      "pattern": "^https://github\\.com/.+"
+    },
+    "linkedin": {
+      "type": "string",
+      "minLength": 1
+    },
+    "highlight": {
+      "type": "string",
+      "minLength": 1
+    }
   }
 }
