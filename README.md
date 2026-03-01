@@ -59,6 +59,12 @@ Read **CONTRIBUTING.md** before opening a pull request.
 </a>
 </td>
 <td align='center' width='120px'>
+<a href='https://github.com/Srijan-XI'>
+<img src='https://github.com/Srijan-XI.png' width='80px' style='border-radius:50%'><br>
+<sub><b>Srijan-XI</b></sub>
+</a>
+</td>
+<td align='center' width='120px'>
 <a href='https://github.com/VighneshSankpal'>
 <img src='https://github.com/VighneshSankpal.png' width='80px' style='border-radius:50%'><br>
 <sub><b>VighneshSankpal</b></sub>
@@ -76,13 +82,19 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>Abhaypb</b></sub>
 </a>
 </td>
+</tr><tr>
+<td align='center' width='120px'>
+<a href='https://github.com/akhilspramod1'>
+<img src='https://github.com/akhilspramod1.png' width='80px' style='border-radius:50%'><br>
+<sub><b>akhilspramod1</b></sub>
+</a>
+</td>
 <td align='center' width='120px'>
 <a href='https://github.com/alisolanki'>
 <img src='https://github.com/alisolanki.png' width='80px' style='border-radius:50%'><br>
 <sub><b>alisolanki</b></sub>
 </a>
 </td>
-</tr><tr>
 <td align='center' width='120px'>
 <a href='https://github.com/Dev-Arun7'>
 <img src='https://github.com/Dev-Arun7.png' width='80px' style='border-radius:50%'><br>
@@ -107,6 +119,7 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>ketanmandave</b></sub>
 </a>
 </td>
+</tr><tr>
 <td align='center' width='120px'>
 <a href='https://github.com/khanhashim9262'>
 <img src='https://github.com/khanhashim9262.png' width='80px' style='border-radius:50%'><br>
@@ -119,11 +132,16 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>Kushagrakumar12</b></sub>
 </a>
 </td>
-</tr><tr>
 <td align='center' width='120px'>
 <a href='https://github.com/lakaThabrew'>
 <img src='https://github.com/lakaThabrew.png' width='80px' style='border-radius:50%'><br>
 <sub><b>lakaThabrew</b></sub>
+</a>
+</td>
+<td align='center' width='120px'>
+<a href='https://github.com/nayr-rc'>
+<img src='https://github.com/nayr-rc.png' width='80px' style='border-radius:50%'><br>
+<sub><b>nayr-rc</b></sub>
 </a>
 </td>
 <td align='center' width='120px'>
@@ -138,6 +156,7 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>shaikwahab01</b></sub>
 </a>
 </td>
+</tr><tr>
 </tr>
 </table>
 <!-- CONTRIBUTORS-LIST:END -->

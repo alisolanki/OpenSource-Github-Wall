@@ -1,4 +1,4 @@
-# Contributing to Open Github Wall
+# Contributing to OpenSource Github Wall
 
 Follow these steps to add your profile.
 
@@ -20,11 +20,15 @@ Click the **Fork** button at the top-right of this page and fork the repository 
 
 Create a new branch with this format:
 
+```
 add-your-github-username
+```
 
 Example:
 
+```
 add-john-doe
+```
 
 ---
 
@@ -32,11 +36,17 @@ add-john-doe
 
 Inside the `contributors` folder, create a new file named:
 
+```
 your-github-username.json
+```
 
 Example:
 
+```
 john-doe.json
+```
+
+> **Important:** The file name must end with `.json` only — not `.json.txt` or any other extension.
 
 ---
 
@@ -44,26 +54,32 @@ john-doe.json
 
 Your file should contain the following fields:
 
-name  
-country  
-role  
-github  
-
-Optional fields:
-
-linkedin  
-highlight  
+| Field      | Required | Description                     |
+|------------|----------|---------------------------------|
+| `name`     | ✅ Yes   | Your full name                  |
+| `country`  | ✅ Yes   | Your country                    |
+| `role`     | ✅ Yes   | Your role (e.g. Developer)      |
+| `github`   | ✅ Yes   | Full GitHub URL                 |
+| `linkedin` | ❌ No    | Full LinkedIn URL (if you have one) |
+| `highlight`| ❌ No    | One short thing you've built or learned |
 
 Example structure:
 
+```json
 {
   "name": "Your Name",
   "country": "Your Country",
   "role": "Your Role",
   "github": "https://github.com/yourusername",
   "linkedin": "https://linkedin.com/in/yourprofile",
-  "highlight": "One short thing you’ve built or learned"
+  "highlight": "One short thing you've built or learned"
 }
+```
+
+> **Tips:**
+> - All field values must be non-empty strings
+> - The `github` field must be a full URL starting with `https://github.com/`
+> - Omit optional fields entirely if you don't want to include them (do not leave them empty)
 
 ---
 
@@ -73,7 +89,9 @@ Commit your file to your branch, not to the main branch.
 
 Commit message:
 
-Add my profile to Open Github Wall
+```
+Add my profile to OpenSource Github Wall
+```
 
 ---
 
@@ -83,11 +101,15 @@ Open a pull request to the main branch.
 
 Title:
 
-Add my profile to Open Github Wall
+```
+Add my profile to OpenSource Github Wall
+```
 
 Description:
 
+```
 Added my contributor JSON file.
+```
 
 ---
 
@@ -98,5 +120,6 @@ Added my contributor JSON file.
 - Do not edit README
 - Always use a branch
 - Keep your pull request clean
+- File must be valid JSON — validate it before submitting
 
 Wait for review or merge.

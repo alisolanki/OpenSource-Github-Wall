@@ -15,7 +15,33 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      - name: Validate contributor JSON files
+        run: |
+          error=0
+          for file in contributors/*.json; do
+            if ! jq empty "$file" 2>/dev/null; then
+              echo "❌ Invalid JSON: $file"
+              error=1
+            else
+              echo "✅ Valid JSON: $file"
+            fi
+          done
+          if [ $error -ne 0 ]; then
+            echo "One or more contributor JSON files are invalid. Aborting."
+            exit 1
+          fi
+
+      - name: Check for misnamed files (e.g. .json.txt)
+        run: |
+          misnamed=$(find contributors -name "*.json.*" 2>/dev/null)
+          if [ -n "$misnamed" ]; then
+            echo "❌ Misnamed contributor files found:"
+            echo "$misnamed"
+            echo "Please rename files so they end in .json only."
+            exit 1
+          fi
 
       - name: Generate contributor grid
         run: |
