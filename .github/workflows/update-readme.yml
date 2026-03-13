@@ -24,23 +24,23 @@ jobs:
 
           count=0
 
-          for file in contributors/*.json; do
-            github=$(jq -r '.github' "$file")
-            username=$(basename "$github")
+          shopt -s nullglob
 
+          for file in contributors/*.json; do
+            if ! jq empty "$file" 2>/dev/null; then
+              echo "Skipping invalid JSON: $file"
+              continue
+            fi
+          
+            github=$(jq -r '.github' "$file")
+            username=$(echo "$github" | sed 's|https://github.com/||')
+          
             echo "<td align='center' width='120px'>" >> grid.html
             echo "<a href='https://github.com/$username'>" >> grid.html
             echo "<img src='https://github.com/$username.png' width='80px' style='border-radius:50%'><br>" >> grid.html
             echo "<sub><b>$username</b></sub>" >> grid.html
             echo "</a>" >> grid.html
             echo "</td>" >> grid.html
-
-            count=$((count+1))
-
-            if [ $count -eq 6 ]; then
-              echo "</tr><tr>" >> grid.html
-              count=0
-            fi
           done
 
           echo "</tr>" >> grid.html
