@@ -103,6 +103,12 @@ Read **CONTRIBUTING.md** before opening a pull request.
 </a>
 </td>
 <td align='center' width='120px'>
+<a href='https://github.com/MrGaurav695'>
+<img src='https://github.com/MrGaurav695.png' width='80px' style='border-radius:50%'><br>
+<sub><b>MrGaurav695</b></sub>
+</a>
+</td>
+<td align='center' width='120px'>
 <a href='https://github.com/hvrshal'>
 <img src='https://github.com/hvrshal.png' width='80px' style='border-radius:50%'><br>
 <sub><b>hvrshal</b></sub>
@@ -114,14 +120,14 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>ketanmandave</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/khanhashim9262'>
 <img src='https://github.com/khanhashim9262.png' width='80px' style='border-radius:50%'><br>
 <sub><b>khanhashim9262</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/Kushagrakumar12'>
 <img src='https://github.com/Kushagrakumar12.png' width='80px' style='border-radius:50%'><br>
@@ -152,14 +158,14 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>lukman-ss</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/meherazhosensiam'>
 <img src='https://github.com/meherazhosensiam.png' width='80px' style='border-radius:50%'><br>
 <sub><b>meherazhosensiam</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/Mihir4510'>
 <img src='https://github.com/Mihir4510.png' width='80px' style='border-radius:50%'><br>
@@ -190,14 +196,14 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>samarthakur412</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/sapta0069'>
 <img src='https://github.com/sapta0069.png' width='80px' style='border-radius:50%'><br>
 <sub><b>sapta0069</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/shaikwahab01'>
 <img src='https://github.com/shaikwahab01.png' width='80px' style='border-radius:50%'><br>
