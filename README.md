@@ -298,6 +298,11 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>zyrogX</b></sub>
 </a>
 </td>
+<td align='center' width='120px'>
+<a href='https://github.com/Rupendra247'>
+<img src='https://avatars.githubusercontent.com/u/223061204?v=4' width='80px' style='border-radius:50%'><br>
+<sub><b>Rupendra247</b></sub>
+</a>
 </tr>
 </table>
 <!-- CONTRIBUTORS-LIST:END -->
