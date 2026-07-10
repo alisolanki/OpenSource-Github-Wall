@@ -371,6 +371,11 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <td align='center' width='120px'>
 <a href='https://github.com/zyrogX'>
 <img src='https://github.com/zyrogX.png' width='80px' style='border-radius:50%'><br>
+</td>
+<td align='center' width='120px'>
+<a href='https://github.com/RaginiSingh2024'>
+<img src='https://avatars.githubusercontent.com/u/184907259?v=4' width='80px' style='border-radius:50%'><br>
+
 <sub><b>zyrogX</b></sub>
 </a>
 </td>
