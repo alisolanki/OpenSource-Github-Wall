@@ -47,12 +47,6 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <table>
 <tr>
 <td align='center' width='120px'>
-<a href='https://github.com/ShikharGupta06'>
-<img src='https://avatars.githubusercontent.com/u/179022859?v=4&size=64' width='80px' style='border-radius:50%'><br>
-<sub><b>Shikhar Gupta</b></sub>
-</a>
-</td>
-<td align='center' width='120px'>
 <a href='https://github.com/Aayushdt'>
 <img src='https://github.com/Aayushdt.png' width='80px' style='border-radius:50%'><br>
 <sub><b>Aayushdt</b></sub>
