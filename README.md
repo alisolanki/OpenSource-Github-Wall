@@ -243,6 +243,12 @@ Read **CONTRIBUTING.md** before opening a pull request.
 </a>
 </td>
 <td align='center' width='120px'>
+<a href='https://github.com/meowster404'>
+<img src='https://github.com/meowster404.png' width='80px' style='border-radius:50%'><br>
+<sub><b>meowster404</b></sub>
+</a>
+</td>
+<td align='center' width='120px'>
 <a href='https://github.com/Mihir4510'>
 <img src='https://github.com/Mihir4510.png' width='80px' style='border-radius:50%'><br>
 <sub><b>Mihir4510</b></sub>
@@ -266,14 +272,14 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>prachi-phatak</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/s4shayan'>
 <img src='https://github.com/s4shayan.png' width='80px' style='border-radius:50%'><br>
 <sub><b>s4shayan</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/samarthakur412'>
 <img src='https://github.com/samarthakur412.png' width='80px' style='border-radius:50%'><br>
@@ -304,14 +310,14 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>Siddheshkr</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/sureshbarach2001'>
 <img src='https://github.com/sureshbarach2001.png' width='80px' style='border-radius:50%'><br>
 <sub><b>sureshbarach2001</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/swethamanju2002'>
 <img src='https://github.com/swethamanju2002.png' width='80px' style='border-radius:50%'><br>
@@ -342,14 +348,14 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>VarshithKumarK</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/vedantpatel29'>
 <img src='https://github.com/vedantpatel29.png' width='80px' style='border-radius:50%'><br>
 <sub><b>vedantpatel29</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/vidyasingh08'>
 <img src='https://github.com/vidyasingh08.png' width='80px' style='border-radius:50%'><br>
