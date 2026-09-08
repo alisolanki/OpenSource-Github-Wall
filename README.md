@@ -433,6 +433,16 @@ Read **CONTRIBUTING.md** before opening a pull request.
 </a>
 </td>
 </tr>
+<td align="center">
+                <a href="https://github.com/sarthakpanchal0510">
+                    <img src="https://avatars.githubusercontent.com/u/271413611?v=4" width="100px;"
+                        alt="Sarthak Panchal" />
+                    <br />
+                    <sub>
+                        <b>Sarthak Panchal</b>
+                    </sub>
+                </a>
+            </td>
 </table>
 <!-- CONTRIBUTORS-LIST:END -->
 </p>
