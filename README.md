@@ -427,6 +427,12 @@ Read **CONTRIBUTING.md** before opening a pull request.
 </tr>
 <tr>
 <td align='center' width='120px'>
+<a href='https://github.com/usfankhan'>
+<img src='https://github.com/usfankhan.png' width='80px' style='border-radius:50%'><br>
+<sub><b>usfankhan</b></sub>
+</a>
+</td>
+<td align='center' width='120px'>
 <a href='https://github.com/VarshithKumarK'>
 <img src='https://github.com/VarshithKumarK.png' width='80px' style='border-radius:50%'><br>
 <sub><b>VarshithKumarK</b></sub>
@@ -456,6 +462,8 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>x-vinay-x</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/zyrogX'>
 <img src='https://github.com/zyrogX.png' width='80px' style='border-radius:50%'><br>
