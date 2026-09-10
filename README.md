@@ -527,19 +527,25 @@ Read **CONTRIBUTING.md** before opening a pull request.
 </a>
 </td>
 <td align='center' width='120px'>
+<a href='https://github.com/uves18'>
+<img src='https://github.com/uves18.png' width='80px' style='border-radius:50%'><br>
+<sub><b>uves18</b></sub>
+</a>
+</td>
+<td align='center' width='120px'>
 <a href='https://github.com/VarshithKumarK'>
 <img src='https://github.com/VarshithKumarK.png' width='80px' style='border-radius:50%'><br>
 <sub><b>VarshithKumarK</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/vedantpatel29'>
 <img src='https://github.com/vedantpatel29.png' width='80px' style='border-radius:50%'><br>
 <sub><b>vedantpatel29</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/vidyasingh08'>
 <img src='https://github.com/vidyasingh08.png' width='80px' style='border-radius:50%'><br>
