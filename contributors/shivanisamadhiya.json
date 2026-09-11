@@ -1,0 +1,62 @@
+{
+  "name": "Shivani Samadhiya",
+  "country": "India",
+  "role": "Full Stack Developer",
+  "github": "https://github.com/shivanisamadhiya",
+  "linkedin": "https://www.linkedin.com/in/shivani-samadhiya-3ab768287",
+  "youtube": "https://youtube.com/@fluxgen-ps425?si=pVVCIXdGc5yIghz2",
+
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "Tailwind CSS",
+    "Bootstrap",
+    "Java",
+    "Python",
+    "C",
+    "SQL",
+    "MongoDB",
+    "MySQL",
+    "Git",
+    "GitHub",
+    "Docker",
+    "Vercel",
+    "Render"
+  ],
+
+  "projects": [
+    {
+      "name": "Prescripto",
+      "description": "Full-stack healthcare consultation platform with appointment booking, doctor availability, online payments, video consultation, chat, and AI chatbot.",
+      "github": "https://github.com/shivanisamadhiya/prescripto-full-stack"
+    },
+    {
+      "name": "Support Ticket & SLA Tracker",
+      "description": "Full-stack support ticket management system with agent workflows and SLA deadline tracking based on business hours.",
+      "github": "https://github.com/shivanisamadhiya/support-ticket-sla-tracker"
+    },
+    {
+      "name": "KBC Game",
+      "description": "Interactive quiz game built with Python and Tkinter, inspired by the KBC format.",
+      "github": "https://github.com/shivanisamadhiya/KBC-GAME"
+    },
+    {
+      "name": "NorthPeak Digital",
+      "description": "Responsive digital agency website built with React and Tailwind CSS, focused on modern UI, responsiveness, accessibility, SEO, and performance.",
+      "github": "https://github.com/shivanisamadhiya/northpeak-digital",
+      "live": "https://northpeak-digital-beta-three.vercel.app/"
+    },
+    {
+      "name": "Persistent Priority Queue",
+      "description": "A persistent priority queue implementation designed to efficiently maintain and retrieve prioritized data with persistence.",
+      "github": "https://github.com/shivanisamadhiya/persistent-priority-queue"
+    }
+  ],
+
+  "highlight": "Full Stack Developer passionate about building real-world web applications and creating self-improvement content on YouTube."
+}
