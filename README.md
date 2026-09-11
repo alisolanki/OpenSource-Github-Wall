@@ -205,6 +205,12 @@ Read **CONTRIBUTING.md** before opening a pull request.
 </a>
 </td>
 <td align='center' width='120px'>
+<a href='https://github.com/Sarvagya-24-chaturvedi'>
+<img src='https://github.com/Sarvagya-24-chaturvedi.png' width='80px' style='border-radius:50%'><br>
+<sub><b>Sarvagya-24-chaturvedi</b></sub>
+</a>
+</td>
+<td align='center' width='120px'>
 <a href='https://github.com/Srimanikanta2006'>
 <img src='https://github.com/Srimanikanta2006.png' width='80px' style='border-radius:50%'><br>
 <sub><b>Srimanikanta2006</b></sub>
@@ -228,14 +234,14 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>Vamshi-krishna20</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/VighneshSankpal'>
 <img src='https://github.com/VighneshSankpal.png' width='80px' style='border-radius:50%'><br>
 <sub><b>VighneshSankpal</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/aartigapo'>
 <img src='https://github.com/aartigapo.png' width='80px' style='border-radius:50%'><br>
@@ -266,14 +272,14 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>alisolanki</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/AnantNegi04'>
 <img src='https://github.com/AnantNegi04.png' width='80px' style='border-radius:50%'><br>
 <sub><b>AnantNegi04</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/anuraguranw3'>
 <img src='https://github.com/anuraguranw3.png' width='80px' style='border-radius:50%'><br>
@@ -304,14 +310,14 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>Harison-SP</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/hvrshal'>
 <img src='https://github.com/hvrshal.png' width='80px' style='border-radius:50%'><br>
 <sub><b>hvrshal</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/harshit8786'>
 <img src='https://github.com/harshit8786.png' width='80px' style='border-radius:50%'><br>
@@ -342,14 +348,14 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>khanhashim9262</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/kp-abhishek79'>
 <img src='https://github.com/kp-abhishek79.png' width='80px' style='border-radius:50%'><br>
 <sub><b>kp-abhishek79</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/krishsingh120'>
 <img src='https://github.com/krishsingh120.png' width='80px' style='border-radius:50%'><br>
@@ -380,14 +386,14 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>lokeshwardeb</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/loneajith-jpg'>
 <img src='https://github.com/loneajith-jpg.png' width='80px' style='border-radius:50%'><br>
 <sub><b>loneajith-jpg</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/lukman-ss'>
 <img src='https://github.com/lukman-ss.png' width='80px' style='border-radius:50%'><br>
@@ -418,14 +424,14 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>nad33mahm3d</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/nayr-rc'>
 <img src='https://github.com/nayr-rc.png' width='80px' style='border-radius:50%'><br>
 <sub><b>nayr-rc</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/ODARI-CHARLES1'>
 <img src='https://github.com/ODARI-CHARLES1.png' width='80px' style='border-radius:50%'><br>
@@ -456,14 +462,14 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>s4shayan</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/samarthakur412'>
 <img src='https://github.com/samarthakur412.png' width='80px' style='border-radius:50%'><br>
 <sub><b>samarthakur412</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/hotshot0104'>
 <img src='https://github.com/hotshot0104.png' width='80px' style='border-radius:50%'><br>
@@ -494,14 +500,14 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>shivanisamadhiya</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/shodhan-git'>
 <img src='https://github.com/shodhan-git.png' width='80px' style='border-radius:50%'><br>
 <sub><b>shodhan-git</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/shreyhi'>
 <img src='https://github.com/shreyhi.png' width='80px' style='border-radius:50%'><br>
@@ -532,14 +538,14 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>tadanobutubutu</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/tanmaykapadnis'>
 <img src='https://github.com/tanmaykapadnis.png' width='80px' style='border-radius:50%'><br>
 <sub><b>tanmaykapadnis</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/alisolanki'>
 <img src='https://github.com/alisolanki.png' width='80px' style='border-radius:50%'><br>
@@ -570,14 +576,14 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>VarshithKumarK</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/vedantpatel29'>
 <img src='https://github.com/vedantpatel29.png' width='80px' style='border-radius:50%'><br>
 <sub><b>vedantpatel29</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/vidyasingh08'>
 <img src='https://github.com/vidyasingh08.png' width='80px' style='border-radius:50%'><br>
