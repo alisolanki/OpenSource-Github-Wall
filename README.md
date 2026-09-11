@@ -483,6 +483,12 @@ Read **CONTRIBUTING.md** before opening a pull request.
 </a>
 </td>
 <td align='center' width='120px'>
+<a href='https://github.com/shivanisamadhiya'>
+<img src='https://github.com/shivanisamadhiya.png' width='80px' style='border-radius:50%'><br>
+<sub><b>shivanisamadhiya</b></sub>
+</a>
+</td>
+<td align='center' width='120px'>
 <a href='https://github.com/shodhan-git'>
 <img src='https://github.com/shodhan-git.png' width='80px' style='border-radius:50%'><br>
 <sub><b>shodhan-git</b></sub>
@@ -494,14 +500,14 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>shreyhi</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/Siddheshkr'>
 <img src='https://github.com/Siddheshkr.png' width='80px' style='border-radius:50%'><br>
 <sub><b>Siddheshkr</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/sureshbarach2001'>
 <img src='https://github.com/sureshbarach2001.png' width='80px' style='border-radius:50%'><br>
@@ -532,14 +538,14 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>alisolanki</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/thisisibrahim'>
 <img src='https://github.com/thisisibrahim.png' width='80px' style='border-radius:50%'><br>
 <sub><b>thisisibrahim</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/usfankhan'>
 <img src='https://github.com/usfankhan.png' width='80px' style='border-radius:50%'><br>
@@ -570,14 +576,14 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>vidyasingh08</b></sub>
 </a>
 </td>
+</tr>
+<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/VirajPatil3012'>
 <img src='https://github.com/VirajPatil3012.png' width='80px' style='border-radius:50%'><br>
 <sub><b>VirajPatil3012</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/x-vinay-x'>
 <img src='https://github.com/x-vinay-x.png' width='80px' style='border-radius:50%'><br>
