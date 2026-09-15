@@ -53,6 +53,12 @@ Read **CONTRIBUTING.md** before opening a pull request.
 </a>
 </td>
 <td align='center' width='120px'>
+<a href='https://github.com/krisalyndaphne'>
+<img src='https://avatars.githubusercontent.com/u/196509684?v=4'><br>
+<sub><b>Krisalyn Daphne</b></sub>
+</a>
+</td>
+<td align='center' width='120px'>
 <a href='https://github.com/adil162006'>
 <img src='https://github.com/adil162006.png' width='80px' style='border-radius:50%'><br>
 <sub><b>adil162006</b></sub>
