@@ -672,6 +672,13 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>zyrogX</b></sub>
 </a>
 </td>
+</td>
+<td align='center' width='120px'>
+<a href='https://github.com/20255-CM-055'>
+<img src='https://avatars.githubusercontent.com/u/119557891?v=4' width='80px' style='border-radius:50%'><br>
+<sub><b>Nandini</b></sub>
+</a>
+</td>
 </tr>
 </table>
 <!-- CONTRIBUTORS-LIST:END -->
