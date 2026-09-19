@@ -670,6 +670,10 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <a href='https://github.com/zyrogX'>
 <img src='https://github.com/zyrogX.png' width='80px' style='border-radius:50%'><br>
 <sub><b>zyrogX</b></sub>
+<td align='center' width='120px'>
+<a href='https://github.com/mitvanshika'>
+<img src='https://github.com/account' width='80px' style='border-radius:50%'><br>
+<sub><b>Vanshika-Mittal</b></sub>
 </a>
 </td>
 </tr>
