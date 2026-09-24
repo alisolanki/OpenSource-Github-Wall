@@ -685,13 +685,19 @@ Read **CONTRIBUTING.md** before opening a pull request.
 </a>
 </td>
 <td align='center' width='120px'>
+<a href='https://github.com/VishalRoy08'>
+<img src='https://github.com/VishalRoy08.png' width='80px' style='border-radius:50%'><br>
+<sub><b>VishalRoy08</b></sub>
+</a>
+</td>
+</tr>
+<tr>
+<td align='center' width='120px'>
 <a href='https://github.com/x-vinay-x'>
 <img src='https://github.com/x-vinay-x.png' width='80px' style='border-radius:50%'><br>
 <sub><b>x-vinay-x</b></sub>
 </a>
 </td>
-</tr>
-<tr>
 <td align='center' width='120px'>
 <a href='https://github.com/zyrogX'>
 <img src='https://github.com/zyrogX.png' width='80px' style='border-radius:50%'><br>
