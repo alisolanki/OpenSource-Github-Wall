@@ -1,3 +1,8 @@
 {
-    "$schema": "https://getcomposer.org/schema.json"
+  "name": "aakrsh",
+  "country": "India",
+  "role": "Software Engineer",
+  "github": "",
+  "linkedin": "",
+  "highlight": ""
 }
